@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 6f5cdcacc9af741449bb6823ff4695ed
+labels:
+- 2017
+- AI
+- API
+- AiUnity
+- Automatically
+- C#
+- Editor
+- Examples
+- Find
+- FindGameObjects
+- FindTags
+- HowTo
+- ModifyTags
+- Multiple
+- MultipleTags
+- Runtime
+- RuntimeTags
+- Script
+- Tag
+- TagManager
+- TagSystem
+- Tags
+- TagsTutorial
+- Tutorial
+- TypeSafe
+folderAsset: yes
+timeCreated: 1504188131
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
