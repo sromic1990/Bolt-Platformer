@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Name: ApplicationVariables
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Player","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1784235645598328, guid: 9fab65f3a396eaf4fb2c796172ea03ca, type: 2}
